@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Denis Antukh A. -- Fullstack -- delo-v-designe.ru
+
+# THANKS
+
+    Denis Antukh A.
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, PHP
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
